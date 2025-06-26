@@ -7,19 +7,19 @@ concluí o ensino médio em 2023. Atualmente estou cursando Ánalise e desenvolv
 Sou apaixonado por tecnologia e fascinado por java. Estou aberto para novas oportunidades no mercado de trabalho. 
 Para mais informações acesse o link: 
 [Linkedln](https://www.linkedin.com/in/gustavo-ananias/)
-<br/>
-<br/>
 
-## 🤖 Linguagens e Tecnologias
+___
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="gustavo-java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="gustavo-springBoot" height="26" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="gustavo-PostGreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
    <img align="center" alt="gustavo-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="gustavo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="gustavo-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-          
+  <img align="center" alt="gustavo-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">       
 </div>
+
+___
 
 ### 📊 Estatísticas
 
