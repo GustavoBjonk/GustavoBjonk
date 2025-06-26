@@ -3,10 +3,10 @@
 **`Desenvolvedor java`**
 
 Me chamo Gustavo Mesquita Ananias, tenho 19 anos, e sou de São de Paulo. 
-concluí o ensino médio em 2023. Atualmente estou cursando Ánalise e desenvolvimento de sistemas na Mackenzie. 
-Sou apaixonado por tecnologia e fascinado por java. Estou aberto para novas oportunidades no mercado de trabalho. 
-Para mais informações acesse o link: 
-[Linkedln](https://www.linkedin.com/in/gustavo-ananias/)
+concluí o ensino médio em 2023. Atualmente estou cursando Ánalise e desenvolvimento de sistemas na Mackenzie.
+Me interesso na área back-end e minhas principais linguagens são Java e C++.
+Sou apaixonado por tecnologia e me atualizo constamente, pois adoro aplicar meus conhecimentos. 
+Estou aberto para novas oportunidades no mercado de trabalho.
 
 ___
 ### 🤖 Linguagens e Tecnologias
