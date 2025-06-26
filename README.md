@@ -8,6 +8,10 @@ Me interesso na área back-end e minhas principais linguagens são Java e C++.
 Sou apaixonado por tecnologia e me atualizo constamente, pois adoro aplicar meus conhecimentos. 
 Estou aberto para novas oportunidades no mercado de trabalho.
 
+### entre em contato
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gustavomesquita294@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gustavo-ananias/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/gustavo_coder/)
 ___
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
