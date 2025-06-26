@@ -53,3 +53,8 @@ ___
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoBjonk/GustavoBjonk/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoBjonk/GustavoBjonk/output/github-contribution-grid-snake.svg">
 </picture>
+
+___
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoBjonk&s=30&c=27114f&bg=00000000&no=1&ff=digi&tb=Profile+visits%3A+&ta=2" /></p> 
+</div>
