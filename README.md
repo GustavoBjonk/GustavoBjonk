@@ -2,7 +2,7 @@
 
 **`Desenvolvedor java`**
 
-Me chamo Gustavo Mesquita Ananias, tenho 19 anos, e sou de São de Paulo. 
+Me chamo Gustavo Ananias, tenho 19 anos, e sou de São de Paulo. 
 concluí o ensino médio em 2023. Atualmente estou cursando Ánalise e desenvolvimento de sistemas na Mackenzie.
 Me interesso na área back-end e minhas principais linguagens são Java e C++.
 Sou apaixonado por tecnologia e me atualizo constamente, pois adoro aplicar meus conhecimentos. 
@@ -31,23 +31,6 @@ ___
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoBjonk&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
-  />
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantos&theme=midnight-purple&layout=donut&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoBjonk/GustavoBjonk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoBjonk/GustavoBjonk/github-contribution-grid-snake-dark.svg">
