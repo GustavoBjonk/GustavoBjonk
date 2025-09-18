@@ -29,8 +29,6 @@ Estou aberto para novas oportunidades no mercado de trabalho.
 
 ___
 
-### 📊 Estatísticas
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoBjonk/GustavoBjonk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoBjonk/GustavoBjonk/github-contribution-grid-snake-dark.svg">
