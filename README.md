@@ -36,6 +36,3 @@ ___
 </picture>
 
 ___
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoBjonk&s=30&c=5e00bd&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A+&ta=2" /></p> 
-</div>
