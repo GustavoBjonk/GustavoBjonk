@@ -2,7 +2,7 @@
 
 **`Desenvolvedor java`**
 
-Me chamo Gustavo Ananias, tenho 19 anos, e sou de São de Paulo. 
+Me chamo Gustavo Ananias, tenho 20 anos, e sou de São de Paulo. 
 concluí o ensino médio em 2023. Atualmente estou cursando Ánalise e desenvolvimento de sistemas na Mackenzie.
 Me interesso na área back-end e minhas principais linguagens são Java e SpringBoot.
 Sou apaixonado por tecnologia e me atualizo constamente, pois adoro aplicar meus conhecimentos. 
