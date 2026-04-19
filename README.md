@@ -12,7 +12,7 @@ Estou aberto para novas oportunidades no mercado de trabalho.
 <img align="right" alt="" height="190px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRsbDdxM2k5MzJ4Mzc3dTY2cmVhMjVsMXMybmx3djZ6c2dxcHQxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohze1y2AJUOHiid8I/giphy.gif">
 
 ### entre em contato
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:gustavomesquita294@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=ffffff)](mailto:gustavomesquita294@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/gustavo-ananias/)
 
 
