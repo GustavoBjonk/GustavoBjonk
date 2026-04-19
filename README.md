@@ -11,11 +11,10 @@ Estou aberto para novas oportunidades no mercado de trabalho.
 
 <img align="right" alt="" height="190px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRsbDdxM2k5MzJ4Mzc3dTY2cmVhMjVsMXMybmx3djZ6c2dxcHQxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohze1y2AJUOHiid8I/giphy.gif">
 
+## 📫 Contato
 
-### entre em contato
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gustavomesquita294@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gustavo-ananias/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/gustavo_coder/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gustavomesquita294@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ananias/)
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: flex; align-items: center; gap: 10px;">
