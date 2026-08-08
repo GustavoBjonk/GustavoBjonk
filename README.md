@@ -17,7 +17,7 @@ I am a curious and analytical person who enjoys transforming data into meaningfu
 
 ### 🤖  Languages and Technologies
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="gustavo-python" height="35" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg](https://img.icons8.com/?size=100&id=101379&format=png&color=000000)">
+  <img alt="gustavo-python" height="35" src="https://img.icons8.com/?size=100&id=101379&format=png&color=000000">
   <img alt="gustavo-springBoot" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img alt="gustavo-PostGreSQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img alt="gustavo-docker" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
