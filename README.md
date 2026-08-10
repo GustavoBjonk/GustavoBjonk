@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=5003&pause=1000&color=B838EE&width=435&lines=Oi%2C+meu+nome+%C3%A9+Gustavo.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=5003&pause=1000&color=B838EE&width=435&lines=Hi%2C+my+name+%C3%A9+Gustavo.)](https://git.io/typing-svg)
 
 **`Data analyst`**
 
