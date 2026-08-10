@@ -23,6 +23,10 @@ I am a curious and analytical person who enjoys transforming data into meaningfu
   <img alt="gustavo-POWERBI" height="35" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000">
   <img alt="gustavo-SQL" height="35" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000">
   <img alt="gustavo-PostGreSQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img alt="gustavo-AWS" height="35" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000">
+  <img alt="gustavo-AWS" height="35" src="https://img.icons8.com/?size=100&id=62903&format=png&color=000000">
+
+  
 </div>
 
 ___
