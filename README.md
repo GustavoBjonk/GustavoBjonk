@@ -4,7 +4,7 @@
 **`Data analyst`**
 
 My name is Gustavo Ananias, I am 20 years old, and I am from São Paulo, Brazil. I graduated from high school in 2023 and I am currently pursuing a degree in Systems Analysis and Development at Mackenzie Presbyterian University.
-I am interested in **Data Analysis** and have been developing my skills in **SQL, Python, Excel, Power BI, exploratory data analysis, and data visualization**. I am passionate about technology and constantly seek to learn new tools and apply my knowledge through practical projects.
+I am interested in **Data Analysis** and have been developing my skills in **SQL, Python, Excel, Power BI, exploratory data analysis, data visualization and AWS**. I am passionate about technology and constantly seek to learn new tools and apply my knowledge through practical projects.
 I am a curious and analytical person who enjoys transforming data into meaningful insights that can support decision-making and generate business value. I am open to new opportunities to develop my career in the data field.
 
 
@@ -24,8 +24,6 @@ I am a curious and analytical person who enjoys transforming data into meaningfu
   <img alt="gustavo-SQL" height="35" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000">
   <img alt="gustavo-PostGreSQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img alt="gustavo-AWS" height="35" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000">
-  <img alt="gustavo-AWS" height="35" src="https://img.icons8.com/?size=100&id=62903&format=png&color=000000">
-
   
 </div>
 
