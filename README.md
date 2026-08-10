@@ -19,11 +19,10 @@ I am a curious and analytical person who enjoys transforming data into meaningfu
 ### 🤖  Languages and Technologies
 <div style="display: flex; align-items: center; gap: 10px;">
   <img alt="gustavo-python" height="35" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000">
-  <img alt="gustavo-springBoot" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img alt="gustavo-EXCEL" height="35" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000">
+  <img alt="gustavo-POWERBI" height="35" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000">
+  <img alt="gustavo-SQL" height="35" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000">
   <img alt="gustavo-PostGreSQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img alt="gustavo-docker" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
-  <img alt="gustavo-html" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img alt="gustavo-css3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
 
 ___
